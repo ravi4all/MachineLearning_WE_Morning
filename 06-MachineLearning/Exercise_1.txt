@@ -1,4 +1,5 @@
 Dataset link - https://github.com/justmarkham
+link - https://raw.githubusercontent.com/justmarkham/DAT8/master/data/u.user
 
 Step 1. Import the necessary libraries
 Step 2. Import the dataset
