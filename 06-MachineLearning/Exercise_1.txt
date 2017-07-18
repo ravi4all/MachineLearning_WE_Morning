@@ -3,6 +3,8 @@ link - https://raw.githubusercontent.com/justmarkham/DAT8/master/data/u.user
 
 Step 1. Import the necessary libraries
 Step 2. Import the dataset
+users = pd.read_table('https://raw.githubusercontent.com/justmarkham/DAT8/master/data/u.user', 
+                      sep='|', index_col='user_id')
 Step 3. Assign it to a variable called users and use the 'user_id' as index
 Step 4. See the first 25 entries
 Step 5. See the last 10 entries
