@@ -1,0 +1,8 @@
+Step 1. Import the necessary libraries
+Step 2. Import the dataset
+Step 3. Assign it to a variable titanic
+Step 4. Set PassengerId as the index
+Step 5. Create a pie chart presenting the male/female proportion
+Step 6. Create a scatterplot with the Fare payed and the Age, differ the plot color by gender
+Step 7. How many people survived?
+Step 8. Create a histogram with the Fare payed
