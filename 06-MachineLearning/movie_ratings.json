@@ -1,0 +1,58 @@
+{
+    "Akash": 
+    {
+        "3 idiots": 2.5,
+        "Hera Pheri": 3.5,
+        "Ghatak": 3.0,
+        "Iron Man": 3.5,
+        "Superman": 2.5,
+        "Bahubali": 3.0
+    },
+    "Ravi": 
+    {
+        "3 idiots": 3.0,
+        "Hera Pheri": 3.5,
+        "Ghatak": 1.5,
+        "Iron Man": 5.0,
+        "Bahubali": 3.0,
+        "Superman": 3.5 
+    },
+    "Amit": 
+    {
+        "3 idiots": 2.5,
+        "Hera Pheri": 3.0,
+        "Iron Man": 3.5,
+        "Bahubali": 4.0
+    },
+    "Manoj": 
+    {
+        "Hera Pheri": 3.5,
+        "Ghatak": 3.0,
+        "Bahubali": 4.5,
+        "Iron Man": 4.0,
+        "Superman": 2.5 
+    },
+    "Pooja": 
+    {
+        "3 idiots": 3.0,
+        "Hera Pheri": 4.0,
+        "Ghatak": 2.0,
+        "Iron Man": 3.0,
+        "Bahubali": 3.0,
+        "Superman": 2.0
+    },
+    "Vaibhav": 
+    {
+       "3 idiots": 3.0,
+       "Hera Pheri": 4.0,
+       "Bahubali": 3.0,
+       "Iron Man": 5.0,
+       "Superman": 3.5
+    },
+    "Shivam": 
+    {
+       "Hera Pheri": 4.5,
+       "Superman": 1.0,
+       "Iron Man": 4.0
+    }
+}
